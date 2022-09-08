@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud migrations to AWS serverless applications with GraalVM'd Java lambda functions.
-- 🌱 I’m currently learning Clojure!
+- 🔭 I’m currently working on AWS solutions using C# and Clojure.
+- 👯 I’m open to collaborating on anything Clojure-related!
+- 🧗 Let's climb together! I climb here: [The Cliffs at Gowanus](https://gowanus.thecliffsclimbing.com/)
 - 😄 Pronouns: he/him
-<!-- - 👯 I’m looking to collaborate on ...
+
+<!--
+- 🌱 I’m currently studying ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact:  -->
+- ⚡ Fun fact: 
+-->
