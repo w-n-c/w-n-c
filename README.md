@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AWS solutions using C# and Clojure.
-- 👯 I’m open to collaborating on anything Clojure-related!
-- 🧗 Let's climb together! I climb here: [The Cliffs at Gowanus](https://gowanus.thecliffsclimbing.com/)
+- 👯 Open to ~~Clojure Collaborations~~, ~~Collabjures~~, ~~Clojations~~, Clollabjurations! (gesundheit)
+- 🧗 Let's climb together at [the cliffs](https://gowanus.thecliffsclimbing.com/)!
+- 🎲 Or board game together [BGG](https://boardgamegeek.com/user/nyxnaut)!
 - 😄 Pronouns: he/him
 
 <!--
