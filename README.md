@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an AWS Architect creating solutions in Java, Python, C# and, if I am lucky, Clojure.
+- 🔭 I am an AWS Architect. I build solutions in Java, Python, C# and [framework-of-the-month] Typescript
 - 🎮 Currently making a game in Godot!
 - 📚 What I'm reading:
     - [Alien Worlds: How Insects Conquered the Earth, and Why Their Fate Will Determine Our Future](https://www.goodreads.com/book/show/83817637-alien-worlds) by Steve Nicholls
