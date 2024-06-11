@@ -8,7 +8,7 @@
     - [Wurthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights) by Emily Bronte
 - 🎲 Let's board game together [BGG](https://boardgamegeek.com/user/nyxnaut)!
 - 🪕 I also practice banjo
-- 🇯🇵 私は日本語を勉強しています
+- 🇯🇵 私は日本語を勉強します
 - 😄 Pronouns: he/him
 <!--
 - 🤔 I’m looking for help with ...
